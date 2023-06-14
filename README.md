@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![419Y5975C3L _AC_UF1000,1000_QL80_](https://github.com/srikarthickeyanganapathy/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393842/d89cf916-fd75-4bca-a01d-2b52cf20ff18)
 
 ### Output:
+![image](https://github.com/srikarthickeyanganapathy/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393842/cf78a1f2-79cf-4c95-b5ff-5b0f17a32033)
 
-
-### Name:
-### Register Number:
+### Name: SRI KARTHICKEYAN GANAPATHY
+### Register Number: 212222240102
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
