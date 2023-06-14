@@ -34,7 +34,7 @@
 ![419Y5975C3L _AC_UF1000,1000_QL80_](https://github.com/srikarthickeyanganapathy/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393842/d89cf916-fd75-4bca-a01d-2b52cf20ff18)
 
 ### Output:
-![image](https://github.com/srikarthickeyanganapathy/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393842/cf78a1f2-79cf-4c95-b5ff-5b0f17a32033)
+![ex_10_EMPD](https://github.com/srikarthickeyanganapathy/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393842/cfd47e51-c087-4024-a9ba-6b72b45bc139)
 
 ### Name: SRI KARTHICKEYAN GANAPATHY
 ### Register Number: 212222240102
